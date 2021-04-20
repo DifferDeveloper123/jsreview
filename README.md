@@ -1,5 +1,6 @@
 # JavaScript Review
 
+
 ## Numbers and Strings
  
  JavaScript can understand different kinds of data like numbers and string. 
